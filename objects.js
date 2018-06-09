@@ -1,7 +1,7 @@
 var playlist = {artist:'song titles'};
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  return 
+  return playlist[]
 }
   describe('updatePlaylist(playlist, artistName, songTitle)', () => {
     before(() => {
